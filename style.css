@@ -30,3 +30,7 @@ header {
     padding: 20px;
     font-size: 18px;
 }
+
+ul li {
+    list-style: none;
+}
