@@ -16,6 +16,7 @@ header {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 10px;
     padding: 20px;
+    border: 2px solid black;
 }
 .gallery img {
     width: 100%;
